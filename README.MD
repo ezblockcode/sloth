@@ -7,6 +7,7 @@ Quick Links:
 
 - [Sloth Examples](#sloth-examples)
   - [About this kit](#about-this-kit)
+  - [Download](#download)
   - [Usage](#usage)
   - [Debug](#debug)
   - [Update](#update)
@@ -18,6 +19,14 @@ Quick Links:
 ## About this kit
 
 We are happy to see your issus and pull request. Feel free to be apart.
+
+## Download
+
+Download this repository to your Raspberry Pi:
+
+```shell
+git clone https://github.com/ezblockcode/sloth.git
+```
 
 ## Usage
 
