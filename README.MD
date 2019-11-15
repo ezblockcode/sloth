@@ -39,7 +39,7 @@ cd examples
 sudo cp xxx.py /opt/ezblock/main
 ```
 
-Then, press **** button on Robot hat, to run the example.
+Then, press **RST** button on Robot hat, to run the example.
 
 ## Debug
 
