@@ -63,7 +63,7 @@ sudo service ezblock start
 
 ## Update
 
-- 2016-08-25: New Release
+- 2019-11-23: New Release
 
 ## Trouble Shootings
 
